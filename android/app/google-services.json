@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "591560497409",
+    "project_id": "fflistademercado-fe444",
+    "storage_bucket": "fflistademercado-fe444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591560497409:android:9b8f6c9a0a936d6f65e300",
+        "android_client_info": {
+          "package_name": "com.mycompany.supermarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzFRyoAWlC44fY_q0EJcq8mEyqzLN0ouI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591560497409:android:ffbf72bbcf5bee7065e300",
+        "android_client_info": {
+          "package_name": "com.semcodar.tutorialffyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzFRyoAWlC44fY_q0EJcq8mEyqzLN0ouI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
